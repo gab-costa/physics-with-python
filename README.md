@@ -1,2 +1,2 @@
-# fisica-com-python
-Aqui estão alguns projetos de eletromagnetismo e mecânica clássica utilizando python, com uma interface para o usuário. 
+# physics-with-python
+Here are some projects of electromagnetism and classical mechanics using python, with an interface for the user.
